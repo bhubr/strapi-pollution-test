@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "key_numbers",
+  "info": {
+    "name": "Key Number"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "text": {
+      "type": "text"
+    }
+  }
+}
